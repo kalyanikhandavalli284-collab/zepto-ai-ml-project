@@ -1,1 +1,1 @@
-# zepto-ai-ml-project
+# masai-ai-ml-project
